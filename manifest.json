@@ -116,5 +116,12 @@
       "sha256": ""
     }
   ],
-  "configs": []
+  "configs": [
+    {
+      "name": "Punchy! — config",
+      "filename": "punchy_config.json",
+      "destination": "config/punchy/punchy_config.json",
+      "url": "https://raw.githubusercontent.com/Luxdakir/terrarium-beta/main/punchy_config.json"
+    }
+  ]
 }
