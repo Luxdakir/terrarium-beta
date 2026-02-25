@@ -44,6 +44,77 @@
       "url": "https://cdn.modrinth.com/data/y4JF3gXL/versions/SN75FqGh/armourersworkshop-forge-1.21.1-3.2.7-beta.jar",
       "prefix": "armourersworkshop-forge",
       "sha256": ""
+    },
+    {
+      "name": "19.27.0.340 for NeoForge 1.21.1",
+      "filename": "jei-1.21.1-neoforge-19.27.0.340.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "prefix": "jei",
+      "sha256": ""
+    },
+    {
+      "name": "[NeoForge 1.21.1] 15.10.5",
+      "filename": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yd8FKCmx/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "prefix": "Jade",
+      "sha256": ""
+    },
+    {
+      "name": "Punchy 2.3 (NeoForge) - 1.21.1",
+      "filename": "punchy-2.3-neoforge-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/B9bdOCTu/punchy-2.3-neoforge-1.21.1.jar",
+      "prefix": "punchy",
+      "sha256": ""
+    },
+    {
+      "name": "Lithium 0.15.2 for Neoforge",
+      "filename": "lithium-neoforge-0.15.2+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OLpCvF3o/lithium-neoforge-0.15.2%2Bmc1.21.1.jar",
+      "prefix": "lithium-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "NeoForge - 1.21",
+      "filename": "entity_texture_features_1.21-neoforge-7.0.9.jar",
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/Z10hRNc9/entity_texture_features_1.21-neoforge-7.0.9.jar",
+      "prefix": "entity_texture_features_1.21-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "NeoForge - 1.21",
+      "filename": "entity_model_features_1.21-neoforge-3.0.12.jar",
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/JHa6X5M3/entity_model_features_1.21-neoforge-3.0.12.jar",
+      "prefix": "entity_model_features_1.21-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "1.11.3-1.21.1 - NeoForge",
+      "filename": "notenoughanimations-neoforge-1.11.3-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/thf4cN71/notenoughanimations-neoforge-1.11.3-mc1.21.1.jar",
+      "prefix": "notenoughanimations-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "[NeoForge 1.21] v15.0.140",
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+      "prefix": "cloth-config",
+      "sha256": ""
+    },
+    {
+      "name": "4.1.0.8 for NeoForge 1.21.1",
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "prefix": "TerraBlender-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "2.1.0.0 for NeoForge 1.21.1",
+      "filename": "GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/8wmCpbQ2/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "prefix": "GlitchCore-neoforge",
+      "sha256": ""
     }
-  ]
+  ],
+  "configs": []
 }
