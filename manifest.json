@@ -1,0 +1,42 @@
+{
+  "modpack_name": "Earth Mod",
+  "minecraft_version": "1.21.1",
+  "neoforge_version": "21.1.217",
+  "mods": [
+    {
+      "name": "Terrarium (Earth Mod)",
+      "filename": "terrarium-neoforge-1.21.1-2.0.0+1.21.1.jar",
+      "url": "https://github.com/Luxdakir/Earth-Tiles/releases/download/v2.0.0/terrarium-neoforge-1.21.1-2.0.0+1.21.1.jar",
+      "prefix": "terrarium-neoforge",
+      "sha256": "34ab225bc55c96d541bf2df6f0eb4ab589fc028439682ef68cc805da34a7eb81"
+    },
+    {
+      "name": "Architectury API",
+      "filename": "architectury-13.0.8-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar",
+      "prefix": "architectury",
+      "sha256": ""
+    },
+    {
+      "name": "Biomes O' Plenty",
+      "filename": "BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+      "url": "https://cdn.modrinth.com/data/HXF82T3G/versions/8vIRXPpR/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+      "prefix": "BiomesOPlenty-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "Sodium",
+      "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "prefix": "sodium-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "Iris Shaders",
+      "filename": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+      "prefix": "iris-neoforge",
+      "sha256": ""
+    }
+  ]
+}
