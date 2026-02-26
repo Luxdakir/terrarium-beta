@@ -488,6 +488,20 @@
       "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/fO6xFzDF/CreativeCore_NEOFORGE_v2.13.32_mc1.21.1.jar",
       "prefix": "CreativeCore_NEOFORGE_v2.13.32_mc1.21.1",
       "sha256": ""
+    },
+    {
+      "name": "SuperMartijn642's Core Lib 1.1.20",
+      "filename": "supermartijn642corelib-1.1.20-neoforge-mc1.21.jar",
+      "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/MQOzQxLt/supermartijn642corelib-1.1.20-neoforge-mc1.21.jar",
+      "prefix": "supermartijn642corelib",
+      "sha256": ""
+    },
+    {
+      "name": "MRU 1.0.19+LTS NeoForge 1.21.1",
+      "filename": "mru-1.0.19+LTS+1.21.1+neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/qYqVf5jP/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar",
+      "prefix": "mru",
+      "sha256": ""
     }
   ],
   "configs": [
