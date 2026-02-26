@@ -1,12 +1,15 @@
-{
-  "modpack_name": "Earth Mod",
+"server": {
+    "ip": "game17fr.hosterfy.com:20356",
+    "name": "Terra Nullius — Serveur Officiel"
+  },
+  "modpack_name": "Terra Nullius",
   "minecraft_version": "1.21.1",
   "neoforge_version": "21.1.217",
   "mods": [
     {
       "name": "Terrarium (Earth Mod)",
       "filename": "terrarium-neoforge-1.21.1-2.0.0+1.21.1.jar",
-      "url": "https://github.com/Luxdakir/Earth-Tiles/releases/download/v2.0.0/terrarium-neoforge-1.21.1-2.0.0+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Luxdakir/server-data/main/terrarium-neoforge-1.21.1-2.0.0%2B1.21.1.jar",
       "prefix": "terrarium-neoforge",
       "sha256": "45756e9736f6aebdfb7fba81723ac4f6da93854cf12a0647afc46c53d63f9e5e"
     },
@@ -127,6 +130,363 @@
       "filename": "smoothgui-neoforge-1.21.1-1.1.0.jar",
       "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/WVSpzVhZ/smoothgui-neoforge-1.21.1-1.1.0.jar",
       "prefix": "smoothgui-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "NeoForge-1.21.1-18.0.0.2",
+      "filename": "AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/DyTvM1dv/versions/N7jam3SN/AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar",
+      "prefix": "AmbientEnvironment-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "3.8.2 for neoforge 1.21.1",
+      "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "prefix": "yet_another_config_lib_v3",
+      "sha256": ""
+    },
+    {
+      "name": "Sounds 2.4.22+lts",
+      "filename": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
+      "prefix": "sounds",
+      "sha256": ""
+    },
+    {
+      "name": "[NeoForge 1.21.1] Immersive Aircraft - 1.4.2",
+      "filename": "immersive_aircraft-1.4.2+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/87aetyeI/immersive_aircraft-1.4.2%2B1.21.1-neoforge.jar",
+      "prefix": "immersive_aircraft",
+      "sha256": ""
+    },
+    {
+      "name": "[NeoForge 1.21.1] Immersive Melodies - 0.6.2",
+      "filename": "immersive_melodies-neoforge-0.6.2+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/YfqFZc6N/immersive_melodies-neoforge-0.6.2%2B1.21.1.jar",
+      "prefix": "immersive_melodies-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "[NeoForge 1.21.1] Immersive Machinery - 0.2.0",
+      "filename": "immersive_machinery-0.2.0+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/kGP3J2TW/versions/I0rFojKK/immersive_machinery-0.2.0%2B1.21.1-neoforge.jar",
+      "prefix": "immersive_machinery",
+      "sha256": ""
+    },
+    {
+      "name": "10.0.0-beta.13+neo",
+      "filename": "ok_zoomer-neo-10.0.0-beta.13.jar",
+      "url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/AkPuuAgJ/ok_zoomer-neo-10.0.0-beta.13.jar",
+      "prefix": "ok_zoomer-neo",
+      "sha256": ""
+    },
+    {
+      "name": "21.1.4+neoforge-1.21.1",
+      "filename": "trashslot-neoforge-1.21.1-21.1.4.jar",
+      "url": "https://cdn.modrinth.com/data/vRYk0bv7/versions/xyqrX19y/trashslot-neoforge-1.21.1-21.1.4.jar",
+      "prefix": "trashslot-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "21.0.56+neoforge-1.21.1",
+      "filename": "balm-neoforge-1.21.1-21.0.56.jar",
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Yoii3Xj6/balm-neoforge-1.21.1-21.0.56.jar",
+      "prefix": "balm-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "0.25.10",
+      "filename": "open-parties-and-claims-neoforge-1.21.1-0.25.10.jar",
+      "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/g5OOSal5/open-parties-and-claims-neoforge-1.21.1-0.25.10.jar",
+      "prefix": "open-parties-and-claims-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "watut-neoforge-1.21.0-1.2.7.jar",
+      "filename": "watut-neoforge-1.21.0-1.2.7.jar",
+      "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar",
+      "prefix": "watut-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "CoroUtil 1.21.0-1.3.8",
+      "filename": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/H2YXCYUY/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "prefix": "coroutil-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "Tiny Item Animations 1.21-1.2.1 for NeoForge",
+      "filename": "tia-neoforge-1.21-1.2.1.jar",
+      "url": "https://cdn.modrinth.com/data/wMkevcSR/versions/mSJPeo1D/tia-neoforge-1.21-1.2.1.jar",
+      "prefix": "tia-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "1.21-3.5.25-neoforge",
+      "filename": "supplementaries-1.21-3.5.25-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/DxYRPQ6h/supplementaries-1.21-3.5.25-neoforge.jar",
+      "prefix": "supplementaries",
+      "sha256": ""
+    },
+    {
+      "name": "1.21-2.29.18-neoforge",
+      "filename": "moonlight-1.21-2.29.18-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/XhoYMFiP/moonlight-1.21-2.29.18-neoforge.jar",
+      "prefix": "moonlight",
+      "sha256": ""
+    },
+    {
+      "name": "Subtle Effects (NeoForge) 1.21.1-1.13.2-hotfix.1",
+      "filename": "SubtleEffects-neoforge-1.21.1-1.13.2-hotfix.1.jar",
+      "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/conRdzcK/SubtleEffects-neoforge-1.21.1-1.13.2-hotfix.1.jar",
+      "prefix": "SubtleEffects-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "fzzy_config-0.7.6+1.21+neoforge",
+      "filename": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
+      "prefix": "fzzy_config",
+      "sha256": ""
+    },
+    {
+      "name": "Kotlin for Forge 5.11.0",
+      "filename": "kotlinforforge-5.11.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/NrSebcsG/kotlinforforge-5.11.0-all.jar",
+      "prefix": "kotlinforforge",
+      "sha256": ""
+    },
+    {
+      "name": "[Neoforge 1.21] Stellaris 1.4.20",
+      "filename": "stellaris-1.21-neoforge-1.4.20.jar",
+      "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/xNYJSdZF/stellaris-1.21-neoforge-1.4.20.jar",
+      "prefix": "stellaris",
+      "sha256": ""
+    },
+    {
+      "name": "[Neoforge 1.21] Potentials 0.7.1",
+      "filename": "potentials-neoforge-1.21-0.7.1.jar",
+      "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/EEjnSxLK/potentials-neoforge-1.21-0.7.1.jar",
+      "prefix": "potentials-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "[NEOFORGE][1.21.1] Sound Physics Remastered 1.21.1-1.5.1",
+      "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "prefix": "sound-physics-remastered-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "1.5.1 - NeoForge 1.21",
+      "filename": "Scribble-1.5.1+mc1.21-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/yXAvIk0x/versions/I0KbSlL9/Scribble-1.5.1%2Bmc1.21-neoforge.jar",
+      "prefix": "Scribble",
+      "sha256": ""
+    },
+    {
+      "name": "[NeoForge 1.21.1] v5.0.10",
+      "filename": "rrls-5.0.10+mc1.21.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/ZP7xHXtw/versions/CSHa8VOm/rrls-5.0.10%2Bmc1.21.1-forge.jar",
+      "prefix": "rrls",
+      "sha256": ""
+    },
+    {
+      "name": "particular-1.21.1-NeoForge-1.1.7.jar",
+      "filename": "particular-1.21.1-NeoForge-1.1.7.jar",
+      "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/QmW99EbW/particular-1.21.1-NeoForge-1.1.7.jar",
+      "prefix": "particular",
+      "sha256": ""
+    },
+    {
+      "name": "1.0.6",
+      "filename": "moreculling-neoforge-1.21.1-1.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/51shyZVL/versions/2w0zNJb4/moreculling-neoforge-1.21.1-1.0.6.jar",
+      "prefix": "moreculling-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "0.9.3 for NeoForge 1.21.0/1",
+      "filename": "InvMove-0.9.3+1.21.1-NeoForge.jar",
+      "url": "https://cdn.modrinth.com/data/REfW2AEX/versions/C7ePwvWW/InvMove-0.9.3%2B1.21.1-NeoForge.jar",
+      "prefix": "InvMove",
+      "sha256": ""
+    },
+    {
+      "name": "[NeoForge] [1.21.1] Inventorio v1.11.0",
+      "filename": "inventorio-mc1.21.1-neoforge-v1.11.0.jar",
+      "url": "https://cdn.modrinth.com/data/LcafSQPm/versions/pxvyXSjJ/inventorio-mc1.21.1-neoforge-v1.11.0.jar",
+      "prefix": "inventorio-mc1.21.1-neoforge-v1.11.0",
+      "sha256": ""
+    },
+    {
+      "name": "[NeoForge] [1.21.1] YARRP v0.2.0",
+      "filename": "yarrp-mc1.21.1-neoforge-v0.2.0.jar",
+      "url": "https://cdn.modrinth.com/data/Z2RtCqwR/versions/t1rtOqca/yarrp-mc1.21.1-neoforge-v0.2.0.jar",
+      "prefix": "yarrp-mc1.21.1-neoforge-v0.2.0",
+      "sha256": ""
+    },
+    {
+      "name": "[NEOFORGE] [1.21.1] HeldItemTooltips-v21.1.0",
+      "filename": "HeldItemTooltips-v21.1.0-1.21.1-NeoForge.jar",
+      "url": "https://cdn.modrinth.com/data/3wWtgZGB/versions/GLzG8UbN/HeldItemTooltips-v21.1.0-1.21.1-NeoForge.jar",
+      "prefix": "HeldItemTooltips-v21.1.0",
+      "sha256": ""
+    },
+    {
+      "name": "[NEOFORGE] [1.21.1] PuzzlesLib-v21.1.39",
+      "filename": "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/EgWWSAhJ/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "prefix": "PuzzlesLib-v21.1.39",
+      "sha256": ""
+    },
+    {
+      "name": "[neoforge] Fast IP Ping v1.0.8 for mc1.21.1",
+      "filename": "fast-ip-ping-v1.0.8-mc1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/E7QL0wJ2/fast-ip-ping-v1.0.8-mc1.21.1-neoforge.jar",
+      "prefix": "fast-ip-ping-v1.0.8-mc1.21.1-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "ferritecore-7.0.3-neoforge",
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+      "prefix": "ferritecore",
+      "sha256": ""
+    },
+    {
+      "name": "FallingLeaves-(NeoForge)-1.21.1-2.5.1",
+      "filename": "fallingleaves-1.21.1-2.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/2JAUNCL4/versions/PVzaPLSv/fallingleaves-1.21.1-2.5.1.jar",
+      "prefix": "fallingleaves",
+      "sha256": ""
+    },
+    {
+      "name": "Exposure - 1.9.13",
+      "filename": "exposure-neoforge-1.21.1-1.9.13.jar",
+      "url": "https://cdn.modrinth.com/data/hB899VmG/versions/WYaaE1QE/exposure-neoforge-1.21.1-1.9.13.jar",
+      "prefix": "exposure-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "Exposure Polaroid - 1.1.2",
+      "filename": "exposure_polaroid-neoforge-1.21.1-1.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/WEWiqYkW/versions/ApvtFYak/exposure_polaroid-neoforge-1.21.1-1.1.2.jar",
+      "prefix": "exposure_polaroid-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "Explosive CLIENT ONLY NeoForge [1.21-1.1.2]",
+      "filename": "explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/r0camchr/versions/XVYkZnNg/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "prefix": "explosiveenhancement-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "Durability Tooltip 1.1.6",
+      "filename": "durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
+      "url": "https://cdn.modrinth.com/data/smUP7V3r/versions/mmYe9e5V/durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
+      "prefix": "durabilitytooltip",
+      "sha256": ""
+    },
+    {
+      "name": "SuperMartijn642's Config Library 1.1.8",
+      "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/qKL9jM75/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "prefix": "supermartijn642configlib",
+      "sha256": ""
+    },
+    {
+      "name": "Detail Armor Bar Reconstructed 5.0.0 for 1.21.1",
+      "filename": "DetailArmorBarReconstructed-5.0.0+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/Si9Uim4y/versions/bRDnMC70/DetailArmorBarReconstructed-5.0.0%2B1.21.1-neoforge.jar",
+      "prefix": "DetailArmorBarReconstructed",
+      "sha256": ""
+    },
+    {
+      "name": "CullLeaves 4.1.1 - Neoforge 1.21.1",
+      "filename": "cullleaves-neoforge-4.1.1+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/V7PU4g8I/cullleaves-neoforge-4.1.1%2B1.21.1.jar",
+      "prefix": "cullleaves-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "MidnightLib 1.9.2 - Neoforge 1.21.1",
+      "filename": "midnightlib-neoforge-1.9.2+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/codAaoxh/versions/Puk24qHu/midnightlib-neoforge-1.9.2%2B1.21.1.jar",
+      "prefix": "midnightlib-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "Connected Glass 1.1.14",
+      "filename": "connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "url": "https://cdn.modrinth.com/data/DghO0R02/versions/vF1S4Mfu/connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "prefix": "connectedglass",
+      "sha256": ""
+    },
+    {
+      "name": "Fusion 1.2.12",
+      "filename": "fusion-1.2.12-neoforge-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/h2GrA0Ku/fusion-1.2.12-neoforge-mc1.21.1.jar",
+      "prefix": "fusion",
+      "sha256": ""
+    },
+    {
+      "name": "Chat Animation 1.1.3",
+      "filename": "chatanimation-neoforge-1.21.1-1.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/fo7IaI89/chatanimation-neoforge-1.21.1-1.1.3.jar",
+      "prefix": "chatanimation-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "1.8.2-1.21.1 - NeoForge",
+      "filename": "waveycapes-neoforge-1.8.2-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/amiXJHmn/waveycapes-neoforge-1.8.2-mc1.21.1.jar",
+      "prefix": "waveycapes-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "appleskin-neoforge-mc1.21-3.0.8",
+      "filename": "appleskin-neoforge-mc1.21-3.0.8.jar",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/8X2x5cPC/appleskin-neoforge-mc1.21-3.0.8.jar",
+      "prefix": "appleskin-neoforge-mc1.21",
+      "sha256": ""
+    },
+    {
+      "name": "neoforge_1.21-1.2.17",
+      "filename": "suppsquared-1.21-1.2.17-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/dCCkNFwE/versions/6LgMCeqW/suppsquared-1.21-1.2.17-neoforge.jar",
+      "prefix": "suppsquared",
+      "sha256": ""
+    },
+    {
+      "name": "Another Furniture 4.0.2",
+      "filename": "another_furniture-neoforge-4.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/ulloLmqG/versions/Q29JlZfU/another_furniture-neoforge-4.0.2.jar",
+      "prefix": "another_furniture-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "1.21-2.0.15-neoforge",
+      "filename": "amendments-1.21-2.0.15-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/8xf6Wpxs/amendments-1.21-2.0.15-neoforge.jar",
+      "prefix": "amendments",
+      "sha256": ""
+    },
+    {
+      "name": "6.3.3",
+      "filename": "AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/fM515JnW/versions/6gGI0nu8/AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1.jar",
+      "prefix": "AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1",
+      "sha256": ""
+    },
+    {
+      "name": "2.13.32",
+      "filename": "CreativeCore_NEOFORGE_v2.13.32_mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/fO6xFzDF/CreativeCore_NEOFORGE_v2.13.32_mc1.21.1.jar",
+      "prefix": "CreativeCore_NEOFORGE_v2.13.32_mc1.21.1",
       "sha256": ""
     }
   ],
