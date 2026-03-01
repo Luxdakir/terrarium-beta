@@ -189,13 +189,6 @@
       "sha256": "868960025d7da92d08ba382cddef18a2b2b238de5d635048cef29f9af0e58c8f"
     },
     {
-      "name": "0.25.10",
-      "filename": "open-parties-and-claims-neoforge-1.21.1-0.25.10.jar",
-      "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/g5OOSal5/open-parties-and-claims-neoforge-1.21.1-0.25.10.jar",
-      "prefix": "open-parties-and-claims-neoforge",
-      "sha256": "b71eaa2211eab300769c4c94e44a60f6ed5357d9107d05025561d20bfdb17dba"
-    },
-    {
       "name": "watut-neoforge-1.21.0-1.2.7.jar",
       "filename": "watut-neoforge-1.21.0-1.2.7.jar",
       "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar",
@@ -518,3 +511,4 @@
     }
   ]
 }
+
