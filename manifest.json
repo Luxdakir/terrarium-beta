@@ -643,6 +643,12 @@
       "filename": "punchy_config.json",
       "destination": "config/punchy/punchy_config.json",
       "url": "https://raw.githubusercontent.com/Luxdakir/terrarium-beta/main/punchy_config.json"
+    },
+    {
+      "name": "Chat Heads — config",
+      "filename": "chat_heads.json5",
+      "destination": "config/chat_heads.json5",
+      "url": "https://raw.githubusercontent.com/Luxdakir/server-data/main/chat_heads.json5"
     }
   ],
   "resourcepacks": [
@@ -658,3 +664,4 @@
     }
   ]
 }
+
